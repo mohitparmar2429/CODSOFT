@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#task-container {
+    text-align: center;
+    margin: 20px;
+}
+
+#task-input {
+    width: 60%;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#add-button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
